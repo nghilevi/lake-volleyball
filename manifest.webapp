@@ -1,0 +1,19 @@
+﻿{
+	"name": "Lake volleyball",
+	"description": "legacy game",
+	"version": "1.0",
+	"launch_path": "/abc/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/abc/icon_16.png",
+		"32": "/abc/icon_32.png",
+		"128": "/abc/icon_128.png"
+	},
+	"developer": {
+		"name": "Nghi Le Vinh",
+		"url": "cba"
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+	"appcache_path": "/abc/offline.appcache"
+}
